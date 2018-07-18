@@ -1,0 +1,7 @@
+c:\users\an image of god\source\repos\Lab3GrandCircus-3\Lab3GrandCircus\obj\Debug\Lab3GrandCircus.csprojAssemblyReference.cache
+c:\users\an image of god\source\repos\Lab3GrandCircus-3\Lab3GrandCircus\obj\Debug\Lab3GrandCircus.csproj.CoreCompileInputs.cache
+c:\users\an image of god\source\repos\Lab3GrandCircus-3\Lab3GrandCircus\bin\Debug\Lab3GrandCircus.exe.config
+c:\users\an image of god\source\repos\Lab3GrandCircus-3\Lab3GrandCircus\bin\Debug\Lab3GrandCircus.exe
+c:\users\an image of god\source\repos\Lab3GrandCircus-3\Lab3GrandCircus\bin\Debug\Lab3GrandCircus.pdb
+c:\users\an image of god\source\repos\Lab3GrandCircus-3\Lab3GrandCircus\obj\Debug\Lab3GrandCircus.exe
+c:\users\an image of god\source\repos\Lab3GrandCircus-3\Lab3GrandCircus\obj\Debug\Lab3GrandCircus.pdb
